@@ -72,7 +72,7 @@ nav ul li .active{
     font-size: 45px;
 }
 
-.middle-box-container hr{
+.middle-box-container .row{
     width: 190px;
     position: relative;
     left: 35%;
@@ -131,9 +131,9 @@ nav ul li .active{
   text-transform: uppercase;
 }
 
-.middle-box-title hr{
+.middle-box-title .row{
   width: 180px;
-  color: rgb(219, 219, 219);
+  background-color: #3333339f;
   margin-top: 20px;
   margin-left: 43%;
 }
@@ -163,8 +163,9 @@ nav ul li .active{
     text-transform: uppercase;
 }
 
-.box-1 hr{
+.box-1 .row{
     width: 50%;
+    background-color: #3333339f;
     margin-left: 90px;
     margin-top: 20px;
 }
@@ -204,7 +205,7 @@ nav ul li .active{
   text-transform: uppercase;
 }
 
-.middle-box-title-2 hr{
+.middle-box-title-2 .row{
   width: 180px;
   color: rgb(219, 219, 219);
   margin-top: 20px;
@@ -298,8 +299,9 @@ nav ul li .active{
   text-transform: uppercase;
 }
 
-.middle-box-title-3 hr{
+.middle-box-title-3 .row{
   width: 180px;
+  background-color: #3333339f;
   margin-top: 20px;
   margin-left: 43%;
 }
@@ -343,8 +345,9 @@ nav ul li .active{
   text-transform: uppercase;
 }
 
-.middle-box-title-4 hr{
+.middle-box-title-4 .row{
   width: 180px;
+  background-color: #3333339f;
   margin-top: 20px;
   margin-left: 43%;
 }
@@ -401,8 +404,9 @@ nav ul li .active{
   text-transform: uppercase;
 }
 
-.middle-box-title-5 hr{
+.middle-box-title-5 .row{
   width: 180px;
+  background-color: #3333339f;
   margin-top: 20px;
   margin-left: 43%;
 }
@@ -533,7 +537,7 @@ nav ul li .active{
   text-transform: uppercase;
 }
 
-.middle-box-title-6 hr{
+.middle-box-title-6 .row{
   width: 180px;
   margin-top: 20px;
   margin-left: 43%;
@@ -645,7 +649,7 @@ footer p{
     color: rgba(80, 80, 80, 0.925);
 }
 
-footer hr{
+footer .row{
     width: 190px;
     margin: 30px 0 0 530px;
     background-color: rgba(170, 162, 162, 0.76);
@@ -664,7 +668,7 @@ footer ul li{
 }
 
 footer ul li a{
-    color: #808080;
+    color: #5f5f5f;
 }
 
 footer ul li a:hover{
